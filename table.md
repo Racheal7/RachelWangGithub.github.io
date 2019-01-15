@@ -2,10 +2,11 @@
 	<tbody>
     <tr>
   		<td>  </td>
-  		<td align="center"> ResNet50 </td>
-  		<td align="center"> VGG16 </td>
-  		<td align="center"> ResNet50</td>
-  		<td align="center"> VGG16</td>
+  		<td align="center"> Original Image </td>
+  		<td align="center"> MaxPooling Layer 0 </td>
+  		<td align="center"> MaxPooling Layer 1</td>
+  		<td align="center"> MaxPooling Layer 2</td>
+	    	<td align="center"> MaxPooling Layer 3</td>
   	</tr>
 		<tr>
 			<td width="16%" align="center"> Top-1 </td>
