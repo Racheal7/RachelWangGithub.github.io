@@ -2,11 +2,6 @@
 	<tbody>
     <tr>
   		<td>  </td>
-  		<td align="center" colspan="2"> Last Convolutional Layer </td>
-  		<td align="center" colspan="2"> Last-1 Convolutional Layer </td>
-  	</tr>
-    <tr>
-  		<td>  </td>
   		<td align="center"> ResNet50 </td>
   		<td align="center"> VGG16 </td>
   		<td align="center"> ResNet50</td>
